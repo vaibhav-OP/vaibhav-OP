@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning electron and reactjs
 - 💞️ I’m looking to collaborate on anything related to javascript
 - 📫 reach me on discord vaibhav#6771
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=vaibhav-OP)](https://github.com/anuraghazra/github-readme-stats)
