@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaibhav-OP
+### 👋 Hi, I’m @vaibhav-OP
 - 👀 I’m interested in developing websites/desktop applications 🤭
 - 🌱 I’m currently learning go and rust
 - 💞️ I’m looking to collaborate on anything related to javascript
