@@ -5,6 +5,6 @@
 - 📫 reach me on discord tag - vaibhav#6771
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-OP&show_icons=true&line_height=27&count_private=true&langs_count=3" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav-OP&show_icons=true&line_height=27&count_private=true" />
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-OP&show_icons=true&line_height=27&count_private=true&langs_count=5" />
+  <img align="center" height="200"  src="https://github-readme-stats.vercel.app/api?username=vaibhav-OP&show_icons=true&line_height=27&count_private=true" />
 </div>
