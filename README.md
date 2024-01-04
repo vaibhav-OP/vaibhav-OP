@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything related to javascript
 - 📫 reach me on discord tag - vaibhav#6771
 
-<div>
+<!--<div>
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-OP&show_icons=true&line_height=27&count_private=true&langs_count=5" />
   <img align="center" height="200"  src="https://github-readme-stats.vercel.app/api?username=vaibhav-OP&show_icons=true&line_height=27&count_private=true" />
-</div>
+</div> -->
