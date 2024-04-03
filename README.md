@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on anything related to javascript
 - 📫 reach me on discord tag - vaibhav#6771
 
-<p align="center">
+<p>
   <a href="https://discord.com/users/414622975598395398">
-    <img src="https://lanyard-profile-readme.vercel.app/api/414622975598395398?animated=true&hideDiscrim=true"/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/414622975598395398?animated=true&hideDiscrim=true&idleMessage=Learning%20new%20technology"/>
   </a>
 </p>
